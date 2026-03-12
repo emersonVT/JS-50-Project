@@ -9,7 +9,7 @@ When a card is clicked:
 
 *(See the video below for the interaction.)*
 
-Uploading Expanding Cards.mp4…
+https://github.com/user-attachments/assets/8eef6a4d-0d86-41f1-81c3-77adfab24d0d
 
 ## How It Works
 
